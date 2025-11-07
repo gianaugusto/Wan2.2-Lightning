@@ -12,6 +12,7 @@ We are excited to release the distilled version of <a href="https://wan.video"><
 - **Complex Motion Generation**: Despite the reduction to just 4 steps, the model retains excellent motion dynamics in the generated scenes.
 
 ## 🔥 Latest News!!
+* Nov 8, 2025: 👋 [Wan2.2-T2V-A14B-NFE4-V2.0](https://huggingface.co/lightx2v/Wan2.2-Lightning/tree/main/Wan2.2-T2V-A14B-4steps-lora-rank64-Seko-V2.0) is now available, offering improvements in camera controllability and motion dynamics. Accompanying this release is our [Phased DMD report](https://x-niper.github.io/projects/Phased-DMD/), the foundational technique employed in all Wan2.2 T2V/I2V models distributed by lightx2v since Sep 28.
 * Sep 28, 2025: 👋 Release [Wan2.2-T2V-A14B-NFE4-0928](https://huggingface.co/lightx2v/Wan2.2-Lightning/tree/main/Wan2.2-T2V-A14B-4steps-lora-250928), a preview version of V2.0 distilled from a new method. This update features enhanced camera controllability and improved motion dynamics. Please see the [comparison](#wan22-t2v-a14b-nfe4-v11-vs-wan22-t2v-a14b-nfe4-250928). We are actively working to further enhance its quality. 
 * Aug 08, 2025: 👋 Release Native ComfyUI Workflows.
 
